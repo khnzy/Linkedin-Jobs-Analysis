@@ -42,7 +42,8 @@ hiring_person_link: A link to the LinkedIn profile of the hiring person.
 job_details: Detailed information about the job, including responsibilities and requirements.
 <br><br>
 
-![iss](https://github.com/user-attachments/assets/31f255fd-e586-42a3-a16d-05c38a673169)
+<img width="1337" alt="iss" src="https://github.com/user-attachments/assets/affe7be8-03e9-4616-a835-cd1b6e6b2724" />
+
 
 
 <br><br>
